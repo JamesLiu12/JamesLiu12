@@ -59,12 +59,9 @@
 ---
 
 ## Highlighted Projects
-- 🎯 [FPS‑Simulator](https://github.com/JamesLiu12/FPS-Simulator) — ENGG1340 GP (C)
-- 💣 [BombMan](https://github.com/JamesLiu12/BombMan) — ENGG1330 group project (Python)
-- 🌐 [Trans‑Knight‑Web](https://github.com/JamesLiu12/Trans-Knight-Web) — HTML
-- 🔥 [Ignis](https://github.com/JamesLiu12/Ignis) — C++ engine experiments
-- ✨ [HonkaiStarRail‑Simulator](https://github.com/JamesLiu12/HonkaiStarRail-Simulator) — Java
-- 🧭 [QuantumMaze](https://github.com/JamesLiu12/QuantumMaze) — C#
+- 🔥 [Ignis](https://github.com/JamesLiu12/Ignis) — Game Engine (C++)
+- 🎯 [FPS‑Simulator](https://github.com/JamesLiu12/FPS-Simulator) — 3D Terminal Game (C)
+- 💣 [TransKnight](https://github.com/Aaron-AA0721/TransKnight) — 2D Platformer Game (Unity/C#)
 
 <details>
   <summary><b>Stats (click to toggle)</b></summary>
