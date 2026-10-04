@@ -2,14 +2,13 @@
 <h1 align="center">heyoo 👋 I’m <i>Sizhe</i> — but <i>James</i> or <i>Roxwell</i> works too</h1>
 
 <p align="center">
-  🎮 game-tech enjoyer • 🎓 CGGT @ Penn • 🌌 graphics + engines • 💙 C++
+  CGGT @ Penn • Graphics, game engines & GPU programming
 </p>
 
 <p align="center">
   <a href="https://github.com/JamesLiu12?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-GitHub-1f6feb?style=for-the-badge&logo=github" alt="repositories"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-Graphics%20%26%20Engines-8b5cf6?style=for-the-badge" alt="focus"/>
   <img src="https://img.shields.io/badge/Location-Philadelphia-0ea5e9?style=for-the-badge" alt="location"/>
 </p>
 
@@ -17,12 +16,12 @@
 
 ## Who am I?
 
-- 🎓 MSE student in **Computer Graphics and Game Technology** at the **University of Pennsylvania**
-- 🏫 Computer Science graduate from **The University of Hong Kong**
-- 💡 Interested in game engines, real-time rendering, graphics systems, and C++ software engineering
-- 🛠️ I enjoy building game-related projects and exploring the systems behind modern engines
-- 🗣️ Languages: `Mandarin Chinese` (native), `English` (advanced), `Cantonese` (intermediate)
-- 🎲 Hobbies: PC gaming, anime, working out, and badminton
+- MSE student in **Computer Graphics and Game Technology** at the **University of Pennsylvania**
+- Computer Science graduate from **The University of Hong Kong**
+- Interested in game engines, rendering, and GPU programming
+- Recently working on CUDA projects, including path tracing and GPU performance optimization
+- Languages: `Mandarin Chinese` (native), `English` (advanced), `Cantonese` (intermediate)
+- Hobbies: PC gaming, anime, working out, and badminton
 
 ---
 
@@ -36,14 +35,14 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-### Graphics & Game Development
+### Graphics, GPU & Game Development
 
 <p>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
   <img src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white" alt="Vulkan" />
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="GLSL" />
-  <img src="https://img.shields.io/badge/Slang-00A9E0?style=for-the-badge&logo=khronosgroup&logoColor=white" alt="Slang" />
   <img src="https://img.shields.io/badge/HLSL-5C2D91?style=for-the-badge&logo=x&logoColor=white" alt="HLSL" />
 </p>
 
@@ -69,9 +68,10 @@
 
 ## Highlighted Projects
 
-- 🔥 [**Ignis**](https://github.com/JamesLiu12/Ignis) — A C++ game engine focused on engine architecture and graphics systems
-- 🎯 [**FPS Simulator**](https://github.com/JamesLiu12/FPS-Simulator) — A 3D terminal-based game written in C
-- 💣 [**TransKnight**](https://github.com/Aaron-AA0721/TransKnight) — A 2D platformer developed with Unity and C#
+- [**CUDA Path Tracer**](https://github.com/JamesLiu12/Project3-CUDA-Path-Tracer) — A CUDA path tracer with glTF support, GGX materials, and BVH acceleration.
+- [**Ignis**](https://github.com/JamesLiu12/Ignis) — A C++ game engine focused on engine architecture and graphics systems
+- [**FPS Simulator**](https://github.com/JamesLiu12/FPS-Simulator) — A 3D terminal-based game written in C
+- [**TransKnight**](https://github.com/Aaron-AA0721/TransKnight) — A 2D platformer developed with Unity and C#
 
 <details>
   <summary><b>GitHub Stats</b></summary>
@@ -100,11 +100,9 @@
 
 I’m open to internships, projects, and collaborations involving:
 
-- 🎮 Game technology
-- 🌌 Graphics programming
-- ⚙️ Game engine development
-- 🖥️ Real-time rendering
-- 💙 C++ software engineering
+- Graphics programming and real-time rendering
+- Game engine development
+- CUDA and GPU performance optimization
 
 ---
 
@@ -113,9 +111,6 @@ I’m open to internships, projects, and collaborations involving:
 <p>
   <a href="https://www.linkedin.com/in/sizhe-liu-2726492b6/">
     <img src="https://img.shields.io/badge/LinkedIn-Sizhe%20Liu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/JamesLiu12">
-    <img src="https://img.shields.io/badge/GitHub-JamesLiu12-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://discord.com/users/jamesliu1212">
     <img src="https://img.shields.io/badge/Discord-Roxwell-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
